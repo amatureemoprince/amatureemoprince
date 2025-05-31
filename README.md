@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![沉默王二的 GitHub](https://github-readme-stats.vercel.app/api?username=itwanger&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/amatureemoprince)
+![阿杰的 GitHub](https://github-readme-stats.vercel.app/api?username=amatureemoprince&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/amatureemoprince)
 
 
 ### About
