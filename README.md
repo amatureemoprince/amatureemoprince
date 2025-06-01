@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 我的项目
 
-#### - [代码・生活・THINKING](https://amatureemoprince.github.io/CodeLifeThinking/) ⭐⭐⭐⭐⭐
+#### - [代码・生活・THINKING](https://github.com/amatureemoprince/CodeLifeThinking) ⭐⭐⭐⭐⭐
 
 >🎉🎉🎉「代码・生 活・THINKING」是一个会一直发展的内容丰富、开源共享、海纳百川的知识网站。不仅有计算机、编程等方面的知识，还有着深刻的思想碰撞！种一颗树最好的时间就是现在，欢迎你加入到这个大家庭！😊😊😊
 
